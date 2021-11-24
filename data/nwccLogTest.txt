@@ -1,0 +1,74 @@
+script run at 2021-08-11T13:08:14.667Z
+
+ doing stn 350215 0 of 72 status: success fuel model: 7G
+ doing stn 350216 1 of 72 status: success fuel model: 7G
+ doing stn 350604 2 of 72 status: success fuel model: 7G
+ doing stn 350718 3 of 72 status: success fuel model: 7G
+ doing stn 350726 4 of 72 status: success fuel model: 7G
+ doing stn 350913 5 of 72 status: success fuel model: 7G
+ doing stn 350917 6 of 72 status: success fuel model: 7G
+ doing stn 351502 7 of 72 status: success fuel model: 7G
+ doing stn 351518 8 of 72 status: success fuel model: 7G
+ doing stn 351520 9 of 72 status: success fuel model: 7G
+ doing stn 351710 10 of 72 status: success fuel model: 7G
+ doing stn 352024 11 of 72 status: success fuel model: 7G
+ doing stn 352107 12 of 72 status: success fuel model: 7G
+ doing stn 352109 13 of 72 status: success fuel model: 7G
+ doing stn 352327 14 of 72 status: success fuel model: 7G
+ doing stn 352329 15 of 72 status: success fuel model: 7G
+ doing stn 352416 16 of 72 status: success fuel model: 7G
+ doing stn 352418 17 of 72 status: success fuel model: 7G
+ doing stn 352545 18 of 72 status: success fuel model: 7G
+ doing stn 352550 19 of 72 status: success fuel model: 7G
+ doing stn 352552 20 of 72 status: success fuel model: 7G
+ doing stn 352554 21 of 72 status: success fuel model: 7G
+ doing stn 352558 22 of 72 status: success fuel model: 7G
+ doing stn 352605 23 of 72 status: success fuel model: 7G
+ doing stn 352620 24 of 72 status: success fuel model: 7G
+ doing stn 352701 25 of 72 status: success fuel model: 7G
+ doing stn 352816 26 of 72 status: success fuel model: 7G
+ doing stn 352915 27 of 72 status: success fuel model: 7G
+ doing stn 352919 28 of 72 status: success fuel model: 7G
+ doing stn 352920 29 of 72 status: success fuel model: 7G
+ doing stn 353120 30 of 72 status: success fuel model: 7G
+ doing stn 353227 31 of 72 status: success fuel model: 7G
+ doing stn 353228 32 of 72 status: success fuel model: 7G
+ doing stn 353230 33 of 72 status: success fuel model: 7G
+ doing stn 353343 34 of 72 status: success fuel model: 7G
+ doing stn 353344 35 of 72 status: success fuel model: 7G
+ doing stn 353402 36 of 72 status: success fuel model: 7G
+ doing stn 353423 37 of 72 status: success fuel model: 7G
+ doing stn 353512 38 of 72 status: success fuel model: 7G
+ doing stn 353524 39 of 72 status: success fuel model: 7G
+ doing stn 353526 40 of 72 status: success fuel model: 7G
+ doing stn 353612 41 of 72 status: success fuel model: 7G
+ doing stn 353614 42 of 72 status: success fuel model: 7G
+ doing stn 450117 43 of 72 status: success fuel model: 7G
+ doing stn 450130 44 of 72 status: success fuel model: 7G
+ doing stn 450211 45 of 72 status: success fuel model: 7G
+ doing stn 450306 46 of 72 status: success fuel model: 7G
+ doing stn 450911 47 of 72 status: success fuel model: 7G
+ doing stn 451105 48 of 72 status: success fuel model: 7G
+ doing stn 451209 49 of 72 status: success fuel model: 7G
+ doing stn 451415 50 of 72 status: success fuel model: 7G
+ doing stn 451509 51 of 72 status: success fuel model: 7G
+ doing stn 451611 52 of 72 status: success fuel model: 7G
+ doing stn 451613 53 of 72 status: success fuel model: 7G
+ doing stn 451718 54 of 72 status: success fuel model: 7G
+ doing stn 451921 55 of 72 status: success fuel model: 7G
+ doing stn 452029 56 of 72 status: error - no wims data for this stn
+ doing stn 452030 57 of 72 status: error - no wims data for this stn
+ doing stn 452036 58 of 72 status: error - no wims data for this stn
+ doing stn 452040 59 of 72 status: success fuel model: 7G
+ doing stn 452134 60 of 72 status: error - no wims data for this stn
+ doing stn 452206 61 of 72 status: error - no wims data for this stn
+ doing stn 452306 62 of 72 status: error - no wims data for this stn
+ doing stn 452404 63 of 72 status: error - no wims data for this stn
+ doing stn 452510 64 of 72 status: success fuel model: 7G
+ doing stn 452513 65 of 72 status: error - no wims data for this stn
+ doing stn 452601 66 of 72 status: error - no wims data for this stn
+ doing stn 452916 67 of 72 status: error - no wims data for this stn
+ doing stn 453201 68 of 72 status: error - no wims data for this stn
+ doing stn 453412 69 of 72 status: error - no wims data for this stn
+ doing stn 453601 70 of 72 status: error - no wims data for this stn
+ doing stn 453803 71 of 72 status: success fuel model: 7G

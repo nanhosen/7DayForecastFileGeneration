@@ -1,0 +1,259 @@
+script run at 2021-08-11T14:26:12.333Z
+
+ doing stn 50104 0 of 257 status: success fuel model: 7G
+ doing stn 50105 1 of 257 status: success fuel model: 7G
+ doing stn 50106 2 of 257 status: success fuel model: 7G
+ doing stn 50108 3 of 257 status: success fuel model: 7G
+ doing stn 50207 4 of 257 status: success fuel model: 7G
+ doing stn 50304 5 of 257 status: success fuel model: 7G
+ doing stn 50304 5 of 257 status: success fuel model: 7G
+ doing stn 50404 7 of 257 status: success fuel model: 7G
+ doing stn 50404 7 of 257 status: success fuel model: 7G
+ doing stn 50406 9 of 257 status: success fuel model: 7G
+ doing stn 50407 10 of 257 status: success fuel model: 7G
+ doing stn 50505 11 of 257 status: success fuel model: 7G
+ doing stn 51402 12 of 257 status: success fuel model: 7G
+ doing stn 51404 13 of 257 status: success fuel model: 7G
+ doing stn 51406 14 of 257 status: success fuel model: 7G
+ doing stn 51407 15 of 257 status: success fuel model: 7G
+ doing stn 51408 16 of 257 status: error - no wims data for this stn
+ doing stn 51504 17 of 257 status: success fuel model: 7G
+ doing stn 51506 18 of 257 status: success fuel model: 7G
+ doing stn 51508 19 of 257 status: success fuel model: 7G
+ doing stn 51510 20 of 257 status: success fuel model: 7G
+ doing stn 51606 21 of 257 status: success fuel model: 7G
+ doing stn 51607 22 of 257 status: success fuel model: 7G
+ doing stn 51703 23 of 257 status: success fuel model: 7G
+ doing stn 51804 24 of 257 status: success fuel model: 7G
+ doing stn 51901 25 of 257 status: success fuel model: 7G
+ doing stn 52001 26 of 257 status: success fuel model: 7G
+ doing stn 52407 27 of 257 status: success fuel model: 7G
+ doing stn 52409 28 of 257 status: success fuel model: 7G
+ doing stn 52704 29 of 257 status: success fuel model: 7G
+ doing stn 52812 30 of 257 status: success fuel model: 7G
+ doing stn 52902 31 of 257 status: success fuel model: 7G
+ doing stn 53002 32 of 257 status: success fuel model: 7G
+ doing stn 53102 33 of 257 status: success fuel model: 7G
+ doing stn 53103 34 of 257 status: success fuel model: 7G
+ doing stn 53804 35 of 257 status: success fuel model: 7G
+ doing stn 53805 36 of 257 status: success fuel model: 7G
+ doing stn 53806 37 of 257 status: success fuel model: 7G
+ doing stn 53807 38 of 257 status: success fuel model: 7G
+ doing stn 53904 39 of 257 status: success fuel model: 7G
+ doing stn 53904 39 of 257 status: success fuel model: 7G
+ doing stn 54702 41 of 257 status: success fuel model: 7G
+ doing stn 54801 42 of 257 status: success fuel model: 7G
+ doing stn 55205 43 of 257 status: success fuel model: 7G
+ doing stn 55305 44 of 257 status: success fuel model: 7G
+ doing stn 55704 45 of 257 status: success fuel model: 7G
+ doing stn 55706 46 of 257 status: success fuel model: 7G
+ doing stn 55710 47 of 257 status: success fuel model: 7G
+ doing stn 55805 48 of 257 status: success fuel model: 7G
+ doing stn 55901 49 of 257 status: success fuel model: 7G
+ doing stn 55902 50 of 257 status: success fuel model: 7G
+ doing stn 56005 51 of 257 status: success fuel model: 7G
+ doing stn 56202 52 of 257 status: success fuel model: 7G
+ doing stn 172286 53 of 257 status: error - no wims data for this stn
+ doing stn 172300 54 of 257 status: error - no wims data for this stn
+ doing stn 172314 55 of 257 status: error - no wims data for this stn
+ doing stn 172328 56 of 257 status: error - no wims data for this stn
+ doing stn 172341 57 of 257 status: error - no wims data for this stn
+ doing stn 172355 58 of 257 status: error - no wims data for this stn
+ doing stn 172383 59 of 257 status: error - no wims data for this stn
+ doing stn 172396 60 of 257 status: error - no wims data for this stn
+ doing stn 172410 61 of 257 status: error - no wims data for this stn
+ doing stn 176262 62 of 257 status: error - no wims data for this stn
+ doing stn 177270 63 of 257 status: error - no wims data for this stn
+ doing stn 179280 64 of 257 status: error - no wims data for this stn
+ doing stn 179307 65 of 257 status: error - no wims data for this stn
+ doing stn 179321 66 of 257 status: error - no wims data for this stn
+ doing stn 179335 67 of 257 status: error - no wims data for this stn
+ doing stn 179348 68 of 257 status: error - no wims data for this stn
+ doing stn 179362 69 of 257 status: error - no wims data for this stn
+ doing stn 179376 70 of 257 status: error - no wims data for this stn
+ doing stn 179389 71 of 257 status: error - no wims data for this stn
+ doing stn 179403 72 of 257 status: error - no wims data for this stn
+ doing stn 180240 73 of 257 status: error - no wims data for this stn
+ doing stn 182231 74 of 257 status: error - no wims data for this stn
+ doing stn 184259 75 of 257 status: error - no wims data for this stn
+ doing stn 185265 76 of 257 status: error - no wims data for this stn
+ doing stn 186236 77 of 257 status: error - no wims data for this stn
+ doing stn 186286 78 of 257 status: error - no wims data for this stn
+ doing stn 186300 79 of 257 status: error - no wims data for this stn
+ doing stn 186328 80 of 257 status: error - no wims data for this stn
+ doing stn 186341 81 of 257 status: error - no wims data for this stn
+ doing stn 186355 82 of 257 status: error - no wims data for this stn
+ doing stn 186369 83 of 257 status: error - no wims data for this stn
+ doing stn 186383 84 of 257 status: error - no wims data for this stn
+ doing stn 186396 85 of 257 status: error - no wims data for this stn
+ doing stn 186410 86 of 257 status: error - no wims data for this stn
+ doing stn 193293 87 of 257 status: error - no wims data for this stn
+ doing stn 193307 88 of 257 status: error - no wims data for this stn
+ doing stn 193321 89 of 257 status: error - no wims data for this stn
+ doing stn 193335 90 of 257 status: error - no wims data for this stn
+ doing stn 193348 91 of 257 status: error - no wims data for this stn
+ doing stn 193362 92 of 257 status: error - no wims data for this stn
+ doing stn 193389 93 of 257 status: error - no wims data for this stn
+ doing stn 193403 94 of 257 status: error - no wims data for this stn
+ doing stn 200300 95 of 257 status: error - no wims data for this stn
+ doing stn 200314 96 of 257 status: error - no wims data for this stn
+ doing stn 200328 97 of 257 status: error - no wims data for this stn
+ doing stn 200341 98 of 257 status: error - no wims data for this stn
+ doing stn 200355 99 of 257 status: error - no wims data for this stn
+ doing stn 200369 100 of 257 status: error - no wims data for this stn
+ doing stn 200383 101 of 257 status: error - no wims data for this stn
+ doing stn 200396 102 of 257 status: error - no wims data for this stn
+ doing stn 200410 103 of 257 status: error - no wims data for this stn
+ doing stn 207307 104 of 257 status: error - no wims data for this stn
+ doing stn 207321 105 of 257 status: error - no wims data for this stn
+ doing stn 207335 106 of 257 status: error - no wims data for this stn
+ doing stn 207348 107 of 257 status: error - no wims data for this stn
+ doing stn 207362 108 of 257 status: error - no wims data for this stn
+ doing stn 207376 109 of 257 status: error - no wims data for this stn
+ doing stn 207389 110 of 257 status: error - no wims data for this stn
+ doing stn 207403 111 of 257 status: error - no wims data for this stn
+ doing stn 214268 112 of 257 status: error - no wims data for this stn
+ doing stn 214286 113 of 257 status: error - no wims data for this stn
+ doing stn 214300 114 of 257 status: error - no wims data for this stn
+ doing stn 214328 115 of 257 status: error - no wims data for this stn
+ doing stn 214341 116 of 257 status: error - no wims data for this stn
+ doing stn 214369 117 of 257 status: error - no wims data for this stn
+ doing stn 214369 117 of 257 status: error - no wims data for this stn
+ doing stn 214383 119 of 257 status: error - no wims data for this stn
+ doing stn 214383 119 of 257 status: error - no wims data for this stn
+ doing stn 214396 121 of 257 status: error - no wims data for this stn
+ doing stn 214396 121 of 257 status: error - no wims data for this stn
+ doing stn 218272 123 of 257 status: error - no wims data for this stn
+ doing stn 220293 124 of 257 status: error - no wims data for this stn
+ doing stn 220307 125 of 257 status: error - no wims data for this stn
+ doing stn 220321 126 of 257 status: error - no wims data for this stn
+ doing stn 220335 127 of 257 status: error - no wims data for this stn
+ doing stn 220348 128 of 257 status: error - no wims data for this stn
+ doing stn 220362 129 of 257 status: error - no wims data for this stn
+ doing stn 220376 130 of 257 status: error - no wims data for this stn
+ doing stn 220389 131 of 257 status: error - no wims data for this stn
+ doing stn 221269 132 of 257 status: error - no wims data for this stn
+ doing stn 227286 133 of 257 status: error - no wims data for this stn
+ doing stn 227286 133 of 257 status: error - no wims data for this stn
+ doing stn 227300 135 of 257 status: error - no wims data for this stn
+ doing stn 227300 135 of 257 status: error - no wims data for this stn
+ doing stn 227314 137 of 257 status: error - no wims data for this stn
+ doing stn 227328 138 of 257 status: error - no wims data for this stn
+ doing stn 227341 139 of 257 status: error - no wims data for this stn
+ doing stn 227355 140 of 257 status: error - no wims data for this stn
+ doing stn 227369 141 of 257 status: error - no wims data for this stn
+ doing stn 227383 142 of 257 status: error - no wims data for this stn
+ doing stn 227396 143 of 257 status: error - no wims data for this stn
+ doing stn 229268 144 of 257 status: error - no wims data for this stn
+ doing stn 232248 145 of 257 status: error - no wims data for this stn
+ doing stn 234261 146 of 257 status: error - no wims data for this stn
+ doing stn 234268 147 of 257 status: error - no wims data for this stn
+ doing stn 234293 148 of 257 status: error - no wims data for this stn
+ doing stn 234307 149 of 257 status: error - no wims data for this stn
+ doing stn 234321 150 of 257 status: error - no wims data for this stn
+ doing stn 234335 151 of 257 status: error - no wims data for this stn
+ doing stn 234362 152 of 257 status: error - no wims data for this stn
+ doing stn 234376 153 of 257 status: error - no wims data for this stn
+ doing stn 234389 154 of 257 status: error - no wims data for this stn
+ doing stn 241286 155 of 257 status: error - no wims data for this stn
+ doing stn 241300 156 of 257 status: error - no wims data for this stn
+ doing stn 241314 157 of 257 status: error - no wims data for this stn
+ doing stn 241314 157 of 257 status: error - no wims data for this stn
+ doing stn 241328 159 of 257 status: error - no wims data for this stn
+ doing stn 241341 160 of 257 status: error - no wims data for this stn
+ doing stn 241355 161 of 257 status: error - no wims data for this stn
+ doing stn 241369 162 of 257 status: error - no wims data for this stn
+ doing stn 241383 163 of 257 status: error - no wims data for this stn
+ doing stn 248293 164 of 257 status: error - no wims data for this stn
+ doing stn 248307 165 of 257 status: error - no wims data for this stn
+ doing stn 248321 166 of 257 status: error - no wims data for this stn
+ doing stn 248335 167 of 257 status: error - no wims data for this stn
+ doing stn 248348 168 of 257 status: error - no wims data for this stn
+ doing stn 248362 169 of 257 status: error - no wims data for this stn
+ doing stn 248376 170 of 257 status: error - no wims data for this stn
+ doing stn 248389 171 of 257 status: error - no wims data for this stn
+ doing stn 255286 172 of 257 status: error - no wims data for this stn
+ doing stn 255300 173 of 257 status: error - no wims data for this stn
+ doing stn 255314 174 of 257 status: error - no wims data for this stn
+ doing stn 255314 174 of 257 status: error - no wims data for this stn
+ doing stn 255328 176 of 257 status: error - no wims data for this stn
+ doing stn 255328 176 of 257 status: error - no wims data for this stn
+ doing stn 255341 178 of 257 status: error - no wims data for this stn
+ doing stn 255341 178 of 257 status: error - no wims data for this stn
+ doing stn 255355 180 of 257 status: error - no wims data for this stn
+ doing stn 255369 181 of 257 status: error - no wims data for this stn
+ doing stn 255383 182 of 257 status: error - no wims data for this stn
+ doing stn 262307 183 of 257 status: error - no wims data for this stn
+ doing stn 262321 184 of 257 status: error - no wims data for this stn
+ doing stn 262335 185 of 257 status: error - no wims data for this stn
+ doing stn 262348 186 of 257 status: error - no wims data for this stn
+ doing stn 262362 187 of 257 status: error - no wims data for this stn
+ doing stn 262376 188 of 257 status: error - no wims data for this stn
+ doing stn 262389 189 of 257 status: error - no wims data for this stn
+ doing stn 269300 190 of 257 status: error - no wims data for this stn
+ doing stn 269314 191 of 257 status: error - no wims data for this stn
+ doing stn 269328 192 of 257 status: error - no wims data for this stn
+ doing stn 269341 193 of 257 status: error - no wims data for this stn
+ doing stn 269355 194 of 257 status: error - no wims data for this stn
+ doing stn 269369 195 of 257 status: error - no wims data for this stn
+ doing stn 269383 196 of 257 status: error - no wims data for this stn
+ doing stn 275307 197 of 257 status: error - no wims data for this stn
+ doing stn 275321 198 of 257 status: error - no wims data for this stn
+ doing stn 275335 199 of 257 status: error - no wims data for this stn
+ doing stn 275348 200 of 257 status: error - no wims data for this stn
+ doing stn 275362 201 of 257 status: error - no wims data for this stn
+ doing stn 275376 202 of 257 status: error - no wims data for this stn
+ doing stn 275389 203 of 257 status: error - no wims data for this stn
+ doing stn 277280 204 of 257 status: error - no wims data for this stn
+ doing stn 280276 205 of 257 status: error - no wims data for this stn
+ doing stn 282328 206 of 257 status: error - no wims data for this stn
+ doing stn 282341 207 of 257 status: error - no wims data for this stn
+ doing stn 282355 208 of 257 status: error - no wims data for this stn
+ doing stn 282369 209 of 257 status: error - no wims data for this stn
+ doing stn 282383 210 of 257 status: error - no wims data for this stn
+ doing stn 289307 211 of 257 status: error - no wims data for this stn
+ doing stn 289335 212 of 257 status: error - no wims data for this stn
+ doing stn 289348 213 of 257 status: error - no wims data for this stn
+ doing stn 289362 214 of 257 status: error - no wims data for this stn
+ doing stn 289376 215 of 257 status: error - no wims data for this stn
+ doing stn 296328 216 of 257 status: error - no wims data for this stn
+ doing stn 296341 217 of 257 status: error - no wims data for this stn
+ doing stn 296355 218 of 257 status: error - no wims data for this stn
+ doing stn 296369 219 of 257 status: error - no wims data for this stn
+ doing stn 296383 220 of 257 status: error - no wims data for this stn
+ doing stn 392506 221 of 257 status: success fuel model: 7G
+ doing stn 392603 222 of 257 status: success fuel model: 7G
+ doing stn 393505 223 of 257 status: success fuel model: 7G
+ doing stn 393506 224 of 257 status: success fuel model: 7G
+ doing stn 395105 225 of 257 status: success fuel model: 7G
+ doing stn 480212 226 of 257 status: success fuel model: 7G
+ doing stn 480213 227 of 257 status: success fuel model: 7G
+ doing stn 480214 228 of 257 status: success fuel model: 7G
+ doing stn 480306 229 of 257 status: success fuel model: 7G
+ doing stn 480307 230 of 257 status: success fuel model: 7G
+ doing stn 480307 230 of 257 status: success fuel model: 7G
+ doing stn 480403 232 of 257 status: success fuel model: 7G
+ doing stn 480404 233 of 257 status: error - no wims data for this stn
+ doing stn 480501 234 of 257 status: success fuel model: 7G
+ doing stn 480502 235 of 257 status: success fuel model: 7G
+ doing stn 480804 236 of 257 status: success fuel model: 7G
+ doing stn 480804 236 of 257 status: success fuel model: 7G
+ doing stn 480904 238 of 257 status: success fuel model: 7G
+ doing stn 480904 238 of 257 status: success fuel model: 7G
+ doing stn 480906 240 of 257 status: success fuel model: 7G
+ doing stn 481002 241 of 257 status: success fuel model: 7G
+ doing stn 481003 242 of 257 status: success fuel model: 7G
+ doing stn 481410 243 of 257 status: success fuel model: 7G
+ doing stn 481411 244 of 257 status: success fuel model: 7G
+ doing stn 481411 244 of 257 status: success fuel model: 7G
+ doing stn 481502 246 of 257 status: success fuel model: 7G
+ doing stn 481504 247 of 257 status: success fuel model: 7G
+ doing stn 481801 248 of 257 status: success fuel model: 7G
+ doing stn 481903 249 of 257 status: success fuel model: 7G
+ doing stn 481904 250 of 257 status: success fuel model: 7G
+ doing stn 481904 250 of 257 status: success fuel model: 7G
+ doing stn 482010 252 of 257 status: success fuel model: 7G
+ doing stn 482011 253 of 257 status: success fuel model: 7G
+ doing stn 482102 254 of 257 status: success fuel model: 7G
+ doing stn 482105 255 of 257 status: success fuel model: 7G
+ doing stn 482106 256 of 257 status: success fuel model: 7G

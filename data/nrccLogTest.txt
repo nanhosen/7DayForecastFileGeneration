@@ -1,0 +1,205 @@
+script run at 2021-08-11T14:11:22.783Z
+
+ doing stn 100101 0 of 203 status: success fuel model: 16Y
+ doing stn 100204 1 of 203 status: success fuel model: 16Y
+ doing stn 100708 2 of 203 status: success fuel model: 16Y
+ doing stn 100711 3 of 203 status: success fuel model: 16Y
+ doing stn 100421 4 of 203 status: success fuel model: 16Y
+ doing stn 100799 5 of 203 status: error - no wims data for this stn
+ doing stn 100902 6 of 203 status: error - no wims data for this stn
+ doing stn 101014 7 of 203 status: success fuel model: 16Y
+ doing stn 101019 8 of 203 status: success fuel model: 16Y
+ doing stn 101049 9 of 203 status: error - no wims data for this stn
+ doing stn 101303 10 of 203 status: success fuel model: 16Y
+ doing stn 101310 11 of 203 status: success fuel model: 16Y
+ doing stn 101311 12 of 203 status: success fuel model: 16Y
+ doing stn 101312 13 of 203 status: success fuel model: 16Y
+ doing stn 101314 14 of 203 status: success fuel model: 16Y
+ doing stn 101315 15 of 203 status: success fuel model: 16Y
+ doing stn 101316 16 of 203 status: success fuel model: 16Y
+ doing stn 101801 17 of 203 status: success fuel model: 16Y
+ doing stn 101804 18 of 203 status: success fuel model: 16Y
+ doing stn 101805 19 of 203 status: success fuel model: 16Y
+ doing stn 101809 20 of 203 status: success fuel model: 16Y
+ doing stn 101812 21 of 203 status: success fuel model: 16Y
+ doing stn 101817 22 of 203 status: success fuel model: 16Y
+ doing stn 101890 23 of 203 status: error - no wims data for this stn
+ doing stn 101905 24 of 203 status: success fuel model: 16Y
+ doing stn 102004 25 of 203 status: success fuel model: 16Y
+ doing stn 102105 26 of 203 status: success fuel model: 16Y
+ doing stn 102106 27 of 203 status: success fuel model: 16Y
+ doing stn 102401 28 of 203 status: success fuel model: 16Y
+ doing stn 102711 29 of 203 status: success fuel model: 16Y
+ doing stn 102802 30 of 203 status: success fuel model: 16Y
+ doing stn 102903 31 of 203 status: success fuel model: 16Y
+ doing stn 102906 32 of 203 status: success fuel model: 16Y
+ doing stn 102907 33 of 203 status: success fuel model: 16Y
+ doing stn 103102 34 of 203 status: success fuel model: 16Y
+ doing stn 103205 35 of 203 status: success fuel model: 16Y
+ doing stn 103209 36 of 203 status: success fuel model: 16Y
+ doing stn 103211 37 of 203 status: error - no wims data for this stn
+ doing stn 103403 38 of 203 status: success fuel model: 16Y
+ doing stn 103703 39 of 203 status: success fuel model: 16Y
+ doing stn 103704 40 of 203 status: success fuel model: 16Y
+ doing stn 103902 41 of 203 status: success fuel model: 16Y
+ doing stn 103903 42 of 203 status: success fuel model: 16Y
+ doing stn 103904 43 of 203 status: success fuel model: 16Y
+ doing stn 104004 44 of 203 status: success fuel model: 16Y
+ doing stn 104006 45 of 203 status: success fuel model: 16Y
+ doing stn 104103 46 of 203 status: success fuel model: 16Y
+ doing stn 104104 47 of 203 status: success fuel model: 16Y
+ doing stn 104105 48 of 203 status: success fuel model: 16Y
+ doing stn 104203 49 of 203 status: success fuel model: 16Y
+ doing stn 240107 50 of 203 status: success fuel model: 16Y
+ doing stn 240110 51 of 203 status: success fuel model: 16Y
+ doing stn 240112 52 of 203 status: success fuel model: 16Y
+ doing stn 240118 53 of 203 status: success fuel model: 16Y
+ doing stn 240119 54 of 203 status: success fuel model: 16Y
+ doing stn 240120 55 of 203 status: success fuel model: 16Y
+ doing stn 240307 56 of 203 status: success fuel model: 16Y
+ doing stn 240308 57 of 203 status: success fuel model: 16Y
+ doing stn 240705 58 of 203 status: error - no wims data for this stn
+ doing stn 241102 59 of 203 status: success fuel model: 16V
+ doing stn 241210 60 of 203 status: success fuel model: 16Y
+ doing stn 241211 61 of 203 status: success fuel model: 16Y
+ doing stn 241213 62 of 203 status: success fuel model: 16Y
+ doing stn 241302 63 of 203 status: success fuel model: 16Y
+ doing stn 241308 64 of 203 status: success fuel model: 16Y
+ doing stn 241390 65 of 203 status: error - no wims data for this stn
+ doing stn 241403 66 of 203 status: success fuel model: 16Y
+ doing stn 241404 67 of 203 status: success fuel model: 16Y
+ doing stn 241405 68 of 203 status: error - no wims data for this stn
+ doing stn 241507 69 of 203 status: success fuel model: 16Y
+ doing stn 241508 70 of 203 status: success fuel model: 16Y
+ doing stn 241513 71 of 203 status: success fuel model: 16Y
+ doing stn 241518 72 of 203 status: success fuel model: 16Y
+ doing stn 241520 73 of 203 status: success fuel model: 16Y
+ doing stn 241802 74 of 203 status: success fuel model: 16Y
+ doing stn 241901 75 of 203 status: success fuel model: 16Y
+ doing stn 241904 76 of 203 status: success fuel model: 16Y
+ doing stn 241907 77 of 203 status: success fuel model: 16Y
+ doing stn 241909 78 of 203 status: success fuel model: 16Y
+ doing stn 241910 79 of 203 status: success fuel model: 16Y
+ doing stn 242102 80 of 203 status: success fuel model: 16Y
+ doing stn 242501 81 of 203 status: success fuel model: 16V
+ doing stn 242902 82 of 203 status: success fuel model: 16Y
+ doing stn 242904 83 of 203 status: success fuel model: 16Y
+ doing stn 242905 84 of 203 status: success fuel model: 16Y
+ doing stn 242907 85 of 203 status: success fuel model: 16Y
+ doing stn 242910 86 of 203 status: success fuel model: 16Y
+ doing stn 242911 87 of 203 status: success fuel model: 16Y
+ doing stn 242912 88 of 203 status: success fuel model: 16Y
+ doing stn 242914 89 of 203 status: success fuel model: 16Y
+ doing stn 242915 90 of 203 status: error - no wims data for this stn
+ doing stn 243002 91 of 203 status: success fuel model: 16Y
+ doing stn 243004 92 of 203 status: success fuel model: 16Y
+ doing stn 243204 93 of 203 status: success fuel model: 16Y
+ doing stn 243206 94 of 203 status: success fuel model: 16Y
+ doing stn 243302 95 of 203 status: success fuel model: 16Y
+ doing stn 243403 96 of 203 status: success fuel model: 16Y
+ doing stn 243404 97 of 203 status: success fuel model: 16Y
+ doing stn 243704 98 of 203 status: success fuel model: 16V
+ doing stn 243902 99 of 203 status: success fuel model: 16V
+ doing stn 244403 100 of 203 status: success fuel model: 16Y
+ doing stn 244902 101 of 203 status: success fuel model: 16Y
+ doing stn 245001 102 of 203 status: success fuel model: 16Y
+ doing stn 245002 103 of 203 status: success fuel model: 16Y
+ doing stn 245105 104 of 203 status: success fuel model: 16V
+ doing stn 245106 105 of 203 status: success fuel model: 16V
+ doing stn 245107 106 of 203 status: success fuel model: 16V
+ doing stn 245108 107 of 203 status: success fuel model: 16V
+ doing stn 245109 108 of 203 status: success fuel model: 16V
+ doing stn 245409 109 of 203 status: success fuel model: 16Y
+ doing stn 245410 110 of 203 status: success fuel model: 16Y
+ doing stn 245412 111 of 203 status: success fuel model: 16Y
+ doing stn 245416 112 of 203 status: success fuel model: 16Y
+ doing stn 245417 113 of 203 status: success fuel model: 16Y
+ doing stn 245501 114 of 203 status: success fuel model: 16Y
+ doing stn 245506 115 of 203 status: success fuel model: 16Y
+ doing stn 245607 116 of 203 status: success fuel model: 16Y
+ doing stn 320101 117 of 203 status: error - no wims data for this stn
+ doing stn 320220 118 of 203 status: error - no wims data for this stn
+ doing stn 320401 119 of 203 status: error - no wims data for this stn
+ doing stn 320501 120 of 203 status: error - no wims data for this stn
+ doing stn 320701 121 of 203 status: success fuel model: 16Y
+ doing stn 321401 122 of 203 status: success fuel model: 16Y
+ doing stn 321703 123 of 203 status: success fuel model: 16V
+ doing stn 322503 124 of 203 status: success fuel model: 16Y
+ doing stn 322701 125 of 203 status: success fuel model: 16Y
+ doing stn 322901 126 of 203 status: error - no wims data for this stn
+ doing stn 323536 127 of 203 status: error - no wims data for this stn
+ doing stn 323804 128 of 203 status: error - no wims data for this stn
+ doing stn 324101 129 of 203 status: error - no wims data for this stn
+ doing stn 324605 130 of 203 status: error - no wims data for this stn
+ doing stn 328501 131 of 203 status: success fuel model: 16Y
+ doing stn 390301 132 of 203 status: success fuel model: 16Y
+ doing stn 390501 133 of 203 status: success fuel model: 16Y
+ doing stn 390701 134 of 203 status: error - no wims data for this stn
+ doing stn 391051 135 of 203 status: success fuel model: 16Y
+ doing stn 391201 136 of 203 status: success fuel model: 16Y
+ doing stn 392506 137 of 203 status: success fuel model: 16Y
+ doing stn 392507 138 of 203 status: success fuel model: 16Y
+ doing stn 392602 139 of 203 status: success fuel model: 16Y
+ doing stn 392603 140 of 203 status: success fuel model: 16Y
+ doing stn 392606 141 of 203 status: success fuel model: 16Y
+ doing stn 392607 142 of 203 status: success fuel model: 16Y
+ doing stn 392608 143 of 203 status: success fuel model: 16Y
+ doing stn 393101 144 of 203 status: success fuel model: 16Y
+ doing stn 393505 145 of 203 status: success fuel model: 16Y
+ doing stn 393506 146 of 203 status: success fuel model: 16Y
+ doing stn 393507 147 of 203 status: success fuel model: 16Y
+ doing stn 393801 148 of 203 status: success fuel model: 16Y
+ doing stn 395105 149 of 203 status: success fuel model: 16Y
+ doing stn 395202 150 of 203 status: success fuel model: 16Y
+ doing stn 395601 151 of 203 status: success fuel model: 16Y
+ doing stn 395901 152 of 203 status: success fuel model: 16Y
+ doing stn 480206 153 of 203 status: error - no wims data for this stn
+ doing stn 480302 154 of 203 status: error - no wims data for this stn
+ doing stn 480501 155 of 203 status: success fuel model: 16Y
+ doing stn 480502 156 of 203 status: success fuel model: 16Y
+ doing stn 480605 157 of 203 status: success fuel model: 16Y
+ doing stn 480606 158 of 203 status: success fuel model: 16Y
+ doing stn 480709 159 of 203 status: success fuel model: 16Y
+ doing stn 481003 160 of 203 status: success fuel model: 16Y
+ doing stn 481502 161 of 203 status: success fuel model: 16Y
+ doing stn 481504 162 of 203 status: success fuel model: 16Y
+ doing stn 481801 163 of 203 status: success fuel model: 16Y
+ doing stn 481903 164 of 203 status: success fuel model: 16Y
+ doing stn 482011 165 of 203 status: success fuel model: 16Y
+ doing stn 482012 166 of 203 status: success fuel model: 16Y
+ doing stn 482102 167 of 203 status: success fuel model: 16Y
+ doing stn 482105 168 of 203 status: success fuel model: 16Y
+ doing stn 482106 169 of 203 status: success fuel model: 16Y
+ doing stn 482107 170 of 203 status: success fuel model: 16Y
+ doing stn 483101 171 of 203 status: success fuel model: 16Y
+ doing stn 241206 172 of 203 status: success fuel model: 16Y
+ doing stn 241519 173 of 203 status: error - no wims data for this stn
+ doing stn 100714 174 of 203 status: success fuel model: 16Y
+ doing stn 100901 175 of 203 status: success fuel model: 16Y
+ doing stn 101013 176 of 203 status: success fuel model: 16Y
+ doing stn 101028 177 of 203 status: success fuel model: 16Y
+ doing stn 101031 178 of 203 status: success fuel model: 16Y
+ doing stn 101045 179 of 203 status: success fuel model: 16Y
+ doing stn 241502 180 of 203 status: success fuel model: 16Y
+ doing stn 240224 181 of 203 status: success fuel model: 16Y
+ doing stn 240207 182 of 203 status: success fuel model: 16Y
+ doing stn 243303 183 of 203 status: error - no wims data for this stn
+ doing stn 242207 184 of 203 status: success fuel model: 16Y
+ doing stn 242208 185 of 203 status: error - no wims data for this stn
+ doing stn 480101 186 of 203 status: success fuel model: 16Y
+ doing stn 244603 187 of 203 status: success fuel model: 16Y
+ doing stn 244803 188 of 203 status: success fuel model: 16Y
+ doing stn 244705 189 of 203 status: success fuel model: 16Y
+ doing stn 242205 190 of 203 status: success fuel model: 16V
+ doing stn 240902 191 of 203 status: success fuel model: 16V
+ doing stn 240704 192 of 203 status: success fuel model: 16V
+ doing stn 240903 193 of 203 status: success fuel model: 16V
+ doing stn 240601 194 of 203 status: error - no wims data for this stn
+ doing stn 242403 195 of 203 status: success fuel model: 16V
+ doing stn 240809 196 of 203 status: success fuel model: 16V
+ doing stn 242303 197 of 203 status: success fuel model: 16V
+ doing stn 240807 198 of 203 status: success fuel model: 16V
+ doing stn 244002 199 of 203 status: success fuel model: 16V
+ doing stn 244102 200 of 203 status: success fuel model: 16V
+ doing stn 244201 201 of 203 status: error - no wims data for this stn
+ doing stn 245303 202 of 203 status: success fuel model: 16V
